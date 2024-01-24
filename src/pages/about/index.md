@@ -3,7 +3,7 @@ templateKey: about-page
 path: /about
 title: Paletas Heladas
 ---
-## Nuestras paletas son 100% naturales.
+### Nuestras paletas son 100% naturales.
 
 * Menos azúcar que las convencionales.
 * Sin conservadores.
