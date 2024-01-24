@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
 path: /about
-title: Paletas Heladas
+title: Paletas Heladas Artesanales
 ---
 ### Nuestras paletas son 100% naturales.
 
